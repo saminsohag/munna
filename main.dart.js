@@ -24287,7 +24287,7 @@ return A.P($async$wY,r)},
 tV(){var s=0,r=A.Q(t.W7),q,p
 var $async$tV=A.L(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:s=3
-return A.R(A.aTy(A.ij("http://worldtimeapi.org/api/timezone/Asia/dhaka")),$async$tV)
+return A.R(A.aTy(A.ij("https://worldtimeapi.org/api/timezone/Asia/dhaka")),$async$tV)
 case 3:p=b
 if(p.b===200){q=A.aKY(J.af(B.bA.OC(0,A.aTh(J.af(A.aQW(p.e).c.a,"charset")).dZ(0,p.w),null),"datetime")).afQ()
 s=1
