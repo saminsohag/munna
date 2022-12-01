@@ -86713,7 +86713,7 @@ s($,"aZd","H1",()=>new A.a2t(A.r(t.N,A.ac("lQ"))))
 s($,"aV2","e8",()=>{var q=A.aLT()
 return new A.Hx(q.gd5(q),$.aD())})
 s($,"aUZ","me",()=>{var q=null,p="settings",o="upcomingexams",n="previousexams",m=t.yo
-m=A.a([A.mQ(new A.a19(),"login",q,"login",B.ep),A.mQ(new A.a1a(),"home",q,"/",A.a([A.mQ(new A.a1b(),p,q,p,B.ep),A.mQ(new A.a1c(),o,q,o,A.a([A.mQ(new A.a1d(),"upcomingexam",q,":examId",A.a([A.mQ(new A.a1e(),"exam",q,"exam",B.ep)],m))],m)),A.mQ(new A.a1f(),n,q,n,A.a([A.mQ(new A.a1g(),"result",q,":examId",B.ep)],m))],m))],m)
+m=A.a([A.mQ(new A.a19(),"login",q,"/login",B.ep),A.mQ(new A.a1a(),"home",q,"/",A.a([A.mQ(new A.a1b(),p,q,p,B.ep),A.mQ(new A.a1c(),o,q,o,A.a([A.mQ(new A.a1d(),"upcomingexam",q,":examId",A.a([A.mQ(new A.a1e(),"exam",q,"exam",B.ep)],m))],m)),A.mQ(new A.a1f(),n,q,n,A.a([A.mQ(new A.a1g(),"result",q,":examId",B.ep)],m))],m))],m)
 return A.aMe(!0,new A.a1h(),$.e8(),m)})
 s($,"aWL","GZ",()=>new A.C6(new A.agK(),$.aD()))
 s($,"aYa","aI5",()=>new A.D())
